@@ -85,7 +85,7 @@ function setup() {
 
 function draw() {
   //trex.debug = true;
-  background(backgroundImg);
+  background("black");
   textSize(20);
   fill("black")
   text("Score: "+ score,30,50);
